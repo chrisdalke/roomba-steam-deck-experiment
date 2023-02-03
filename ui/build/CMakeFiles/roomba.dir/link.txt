@@ -1,0 +1,1 @@
+/usr/lib/ccache/c++  -Wall -Wno-ignored-attributes   CMakeFiles/roomba.dir/src/main.cpp.o  -o roomba   -L/usr/local/lib  -Wl,-rpath,/usr/local/lib -lraylib _deps/fmtlib-build/libfmt.a -lm -lpthread -ldl 

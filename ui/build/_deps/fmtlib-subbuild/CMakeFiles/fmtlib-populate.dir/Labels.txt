@@ -1,0 +1,14 @@
+# Target labels
+ fmtlib-populate
+# Source files and their labels
+/home/chris/roomba-steam-deck/ui/build/_deps/fmtlib-subbuild/CMakeFiles/fmtlib-populate
+/home/chris/roomba-steam-deck/ui/build/_deps/fmtlib-subbuild/CMakeFiles/fmtlib-populate.rule
+/home/chris/roomba-steam-deck/ui/build/_deps/fmtlib-subbuild/CMakeFiles/fmtlib-populate-complete.rule
+/home/chris/roomba-steam-deck/ui/build/_deps/fmtlib-subbuild/fmtlib-populate-prefix/src/fmtlib-populate-stamp/fmtlib-populate-install.rule
+/home/chris/roomba-steam-deck/ui/build/_deps/fmtlib-subbuild/fmtlib-populate-prefix/src/fmtlib-populate-stamp/fmtlib-populate-mkdir.rule
+/home/chris/roomba-steam-deck/ui/build/_deps/fmtlib-subbuild/fmtlib-populate-prefix/src/fmtlib-populate-stamp/fmtlib-populate-download.rule
+/home/chris/roomba-steam-deck/ui/build/_deps/fmtlib-subbuild/fmtlib-populate-prefix/src/fmtlib-populate-stamp/fmtlib-populate-update.rule
+/home/chris/roomba-steam-deck/ui/build/_deps/fmtlib-subbuild/fmtlib-populate-prefix/src/fmtlib-populate-stamp/fmtlib-populate-patch.rule
+/home/chris/roomba-steam-deck/ui/build/_deps/fmtlib-subbuild/fmtlib-populate-prefix/src/fmtlib-populate-stamp/fmtlib-populate-configure.rule
+/home/chris/roomba-steam-deck/ui/build/_deps/fmtlib-subbuild/fmtlib-populate-prefix/src/fmtlib-populate-stamp/fmtlib-populate-build.rule
+/home/chris/roomba-steam-deck/ui/build/_deps/fmtlib-subbuild/fmtlib-populate-prefix/src/fmtlib-populate-stamp/fmtlib-populate-test.rule
